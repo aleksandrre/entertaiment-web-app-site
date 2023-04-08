@@ -13,8 +13,8 @@
 
 ### Links
 
-- Live Site URL: [Live site]
-- Solution URL:
+- Live Site URL: [Live site](https://entertaiment-web-app-site.vercel.app/)
+- Solution URL:[Solution URL](https://github.com/aleksandrre/entertaiment-web-app-site)
 
 ### Built with
 
@@ -26,4 +26,4 @@
 
 ## Author
 
-- Linkedin -
+- [Aleksandre chokheli](https://github.com/aleksandrre)
